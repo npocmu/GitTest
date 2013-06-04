@@ -1,4 +1,4 @@
 GitTest
 =======
 
-Just for git testing  
+Just for git testing. Nothing special
